@@ -1,7 +1,7 @@
 {
-  "name": "ty-video",
+  "name": "v-video",
   "description": "video视频播放器（直播&录播）",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "zto",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,7 @@
     "videojs-flvjs": "^0.2.0"
   },
   "devDependencies": {
-    "@v-serve": "git+https://github.com/zhangtaon/v-serve.git",
-    "axios": "0.19.2",
-    "vuex": "^3.1.2"
+    "@v-serve": "git+https://github.com/zhangtaon/v-serve.git"
   },
   "license": "MIT"
 }
