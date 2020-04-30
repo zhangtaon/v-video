@@ -1,0 +1,68 @@
+{
+    "list": [
+        {
+            "videoIpAddr": "cctv1hd.m3u8",
+            "videoName": "cctv1"
+        },
+        {
+            "videoIpAddr": "cctv3hd.m3u8",
+            "videoName": "cctv3"
+        },
+        {
+            "videoIpAddr": "cctv6hd.m3u8",
+            "videoName": "cctv6"
+        },
+        {
+            "videoIpAddr": "hunanhd.m3u8",
+            "videoName": "湖南卫视"
+        },
+        {
+            "videoIpAddr": "sdhd.m3u8",
+            "videoName": "山东卫视高清"
+        },
+        {
+            "videoIpAddr": "chchd.m3u8",
+            "videoName": "CHC高清电影"
+        },
+        {
+            "videoIpAddr": "btv1hd.m3u8",
+            "videoName": "北京卫视高清"
+        },
+        {
+            "videoIpAddr": "btv2hd.m3u8",
+            "videoName": "北京文艺高清"
+        },
+        {
+            "videoIpAddr": "zjhd.m3u8",
+            "videoName": "浙江卫视高清"
+        },
+        {
+            "videoIpAddr": "jshd.m3u8",
+            "videoName": "江苏卫视高清"
+        },
+        {
+            "videoIpAddr": "dfhd.m3u8",
+            "videoName": "东方卫视高清"
+        },
+        {
+            "videoIpAddr": "ahhd.m3u8",
+            "videoName": "安徽卫视高清"
+        },
+        {
+            "videoIpAddr": "hljhd.m3u8",
+            "videoName": "黑龙江卫视高清"
+        },
+        {
+            "videoIpAddr": "lnhd.m3u8",
+            "videoName": "辽宁卫视高清"
+        },
+        {
+            "videoIpAddr": "gdhd.m3u8",
+            "videoName": "广东卫视高清"
+        },
+        {
+            "videoIpAddr": "tjhd.m3u8",
+            "videoName": "天津卫视高清"
+        }
+    ]
+}

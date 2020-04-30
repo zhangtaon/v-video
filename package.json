@@ -1,0 +1,25 @@
+{
+  "name": "ty-video",
+  "description": "video视频播放器（直播&录播）",
+  "version": "0.1.0",
+  "author": "zto",
+  "main": "index.js",
+  "scripts": {
+    "serve": "webpack-dev-server --config ./node_modules/@v-serve --open"
+  },
+  "dependencies": {
+    "eonasdan-bootstrap-datetimepicker": "4.17.47",
+    "flv-reader": "^1.0.2",
+    "flv.js": "^1.5.0",
+    "moment": "2.24.0",
+    "video.js": "^7.6.6",
+    "videojs-flash": "^2.2.1",
+    "videojs-flvjs": "^0.2.0"
+  },
+  "devDependencies": {
+    "@v-serve": "git+https://github.com/zhangtaon/v-serve.git",
+    "axios": "0.19.2",
+    "vuex": "^3.1.2"
+  },
+  "license": "MIT"
+}

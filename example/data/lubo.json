@@ -1,0 +1,18 @@
+{
+    "code": "0",
+    "msg": "ok",
+    "data": [
+        {
+            "fileName": "http://172.24.0.11:8087/video/loadRecord?videoName=/13098300001181005001_13098300001311001010_20200313180749.flv",
+            "startTime": 1584094069000,
+            "endTime": 1584094730345,
+            "duration": 661345
+        },
+        {
+            "fileName": "http://172.24.0.11:8087/video/loadRecord?videoName=/13098300001181005001_13098300001311001010_20200313181749.flv",
+            "startTime": 1584094669000,
+            "endTime": 1584095332487,
+            "duration": 663487
+        }
+    ]
+}
