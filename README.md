@@ -1,5 +1,5 @@
-# ty-video 视频直播录播一体化基础功能包
-
+# v-video 视频直播录播一体化基础功能包
+## [简书介绍](https://www.jianshu.com/p/2b09fbfbeda5)
 ### 技术栈
  [videojs](https://videojs.com/) + [flv.js](https://github.com/Bilibili/flv.js#readme) + [videojs-flvjs](https://github.com/mister-ben/videojs-flvjs#readme) + [ES6](http://caibaojian.com/es6/) + [jquery@2*](https://www.jquery123.com/category/traversing/tree-traversal/) + [bootstarp@3*](https://v3.bootcss.com/) + [Bootstrap 3 Date/Time Picker](http://eonasdan.github.io/bootstrap-datetimepicker/) + [Sass](https://sass-lang.com/guide) + [Moment.js](https://momentjs.com/)
 
