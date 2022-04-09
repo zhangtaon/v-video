@@ -11,7 +11,7 @@
     "eonasdan-bootstrap-datetimepicker": "4.17.47",
     "flv-reader": "^1.0.2",
     "flv.js": "^1.5.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "video.js": "^7.6.6",
     "videojs-flash": "^2.2.1",
     "videojs-flvjs": "^0.2.0"
